@@ -1,0 +1,4 @@
+a, h2, div{
+    display: flex;
+    justify-content: space-around;
+}
